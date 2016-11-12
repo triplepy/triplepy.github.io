@@ -1,20 +1,16 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
-canonical: http://jekyll.gtat.me
+title:            pypypy
+tagline:          The blog of triple py.
+description:
+canonical: http://triplepy.github.io
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
+  name:           Triple Py
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  bio:            "Py & Py & π"
+  email:          eightsh8@gmail.com
+  github:         triplepy
+  location:       "Souel, Korea"
   # Plug in your disqus shortname!
 
 tools:
@@ -23,7 +19,7 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           ko_KR
 
 # Links to include in top navigation
 # For external links add external: true
@@ -31,14 +27,14 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    url: https://github.com/triplepy
     external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: sh8email
+    url: http://sh8.email
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Seoul
 future:      true
 highlighter: pygments
 markdown:    kramdown

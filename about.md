@@ -1,8 +1,8 @@
 ---
 layout: post
 permalink: /about/index.html
-title: Triple Py 는??
-description: Triple Py에 대하
+title: Triple Py?
+description: Triple Py에 대하여
 tags: [TriplePy]
 image:
   feature: soft-trees.jpg
@@ -13,9 +13,15 @@ image:
 
 
 ### 구성원
+
 #### 송다운(downy)
+
 #### 이강산(river-mountain)
+
 #### 정현지(hyundeeee)
+
 #### 주원영(getogrand)[]
+
 #### 최현묵(jelly)[]
+
 어느 순간부터 젤리라고 불리기 시작한 이후, 이름보다 젤리로 더 많이 불리고 있습니다. 네 제가 바로 그 젤리입니다.

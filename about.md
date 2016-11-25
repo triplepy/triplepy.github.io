@@ -16,20 +16,26 @@ image:
 ![Imgur](http://i.imgur.com/c074jtn.jpg)
 
 ### 송다운(downy)
+안녕하세요 다우니입니다. 아 물론 향기나는 그 다우니는 아닙니다.
+
 
 ![Imgur](http://i.imgur.com/bek5FVy.jpg)
 
 ### 이강산(river-mountain)
 
+
 ![Imgur](http://i.imgur.com/Ntybtkf.jpg)
 
 ### 정현지(hyundeeee)
+hyundeeeee입니다. e가 다섯개입니다. e가 다섯개!!!!!!
+
 
 ![Imgur](http://i.imgur.com/lWBxaFv.png)
 
 ### 주원영(getogrand)
 
 ![Imgur](http://i.imgur.com/FtypJBb.jpg)
+
 
 ### 최현묵(jelly) 
 [![Imgur](http://i.imgur.com/X95C5iM.png)](https://www.facebook.com/hyunmook.k.choi)[![Imgur](http://i.imgur.com/W9wJ63F.png)](http://jellyms.kr)

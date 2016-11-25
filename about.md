@@ -14,17 +14,22 @@ image:
 
 ### 구성원
 ![Imgur](http://i.imgur.com/c074jtn.jpg)
+
 #### 송다운(downy)
 
 ![Imgur](http://i.imgur.com/bek5FVy.jpg)
+
 #### 이강산(river-mountain)
 
 ![Imgur](http://i.imgur.com/Ntybtkf.jpg)
+
 #### 정현지(hyundeeee)
 
 ![Imgur](http://i.imgur.com/lWBxaFv.png)
+
 #### 주원영(getogrand)
 
 ![Imgur](http://i.imgur.com/FtypJBb.jpg)
+
 #### 최현묵(jelly)
 어느 순간부터 젤리라고 불리기 시작한 이후, 이름보다 젤리로 더 많이 불리고 있습니다. 네 제가 바로 그 젤리입니다.

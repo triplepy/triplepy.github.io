@@ -919,6 +919,14 @@ small {
 	a {
 		img {
 			max-width: 48px;
+			opacity: 0.5;
+			filter: alpha(opacity=50); /* For IE8 and earlier */
+
+		}
+		
+		img:hover {
+			opacity: 1.0;
+			filter: alpha(opacity=100);
 		}
 	}
 }

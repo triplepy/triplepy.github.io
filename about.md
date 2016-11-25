@@ -12,25 +12,25 @@ image:
 처음에는 '파이썬을 하는 세명'으로 시작하였지만 현재는 총 5명이 함께 팀을 이루고 있습니다.
 
 
-### 구성원
+## 구성원
 ![Imgur](http://i.imgur.com/c074jtn.jpg)
 
-#### 송다운(downy)
+### 송다운(downy)
 
 ![Imgur](http://i.imgur.com/bek5FVy.jpg)
 
-#### 이강산(river-mountain)
+### 이강산(river-mountain)
 
 ![Imgur](http://i.imgur.com/Ntybtkf.jpg)
 
-#### 정현지(hyundeeee)
+### 정현지(hyundeeee)
 
 ![Imgur](http://i.imgur.com/lWBxaFv.png)
 
-#### 주원영(getogrand)
+### 주원영(getogrand)
 
 ![Imgur](http://i.imgur.com/FtypJBb.jpg)
 
-#### 최현묵(jelly) [![Imgur](http://i.imgur.com/X95C5iM.png)](https://www.facebook.com/hyunmook.k.choi)
+### 최현묵(jelly) [![Imgur](http://i.imgur.com/X95C5iM.png)](https://www.facebook.com/hyunmook.k.choi)
 
 어느 순간부터 젤리라고 불리기 시작한 이후, 이름보다 젤리로 더 많이 불리고 있습니다. 네 제가 바로 그 젤리입니다.

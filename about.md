@@ -35,5 +35,4 @@ image:
 
 [![Imgur](http://i.imgur.com/X95C5iM.png)](https://www.facebook.com/hyunmook.k.choi)
 
-
 어느 순간부터 젤리라고 불리기 시작한 이후, 이름보다 젤리로 더 많이 불리고 있습니다. 네 제가 바로 그 젤리입니다.

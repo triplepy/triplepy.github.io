@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-feature
 permalink: /about/index.html
 title: Triple Py?
 description: Triple Py에 대하여

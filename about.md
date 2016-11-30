@@ -22,6 +22,9 @@ image:
 
 
 ### 이강산(river-mountain)
+
+안녕하세요 리버마운틴 입니다. 江강강에 山메산 맞습니다. 정말로요.
+
 ![Imgur](http://i.imgur.com/bek5FVy.jpg)
 
 
@@ -36,9 +39,10 @@ hyundeeeee입니다. e가 다섯개입니다. e가 다섯개!!!!!!
 
 
 ### 주원영(getogrand)
+
 ![Imgur](http://i.imgur.com/lWBxaFv.png)
 
-
+JU 101011110011111001110100000101100110011111010101100111010001110
 
 
 

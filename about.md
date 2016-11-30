@@ -13,31 +13,38 @@ image:
 
 
 ## 구성원
-![Imgur](http://i.imgur.com/c074jtn.jpg)
 
 ### 송다운(downy)
+
+![Imgur](http://i.imgur.com/c074jtn.jpg)
+
 안녕하세요 다우니입니다. 아 물론 향기나는 그 다우니는 아닙니다.
 
 
+### 이강산(river-mountain)
 ![Imgur](http://i.imgur.com/bek5FVy.jpg)
 
-### 이강산(river-mountain)
 
+### 정현지(hyundeeee)
 
 ![Imgur](http://i.imgur.com/Ntybtkf.jpg)
 
-### 정현지(hyundeeee)
 hyundeeeee입니다. e가 다섯개입니다. e가 다섯개!!!!!!
 
 
-![Imgur](http://i.imgur.com/lWBxaFv.png)
+
+
 
 ### 주원영(getogrand)
+![Imgur](http://i.imgur.com/lWBxaFv.png)
 
-![Imgur](http://i.imgur.com/FtypJBb.jpg)
+
+
+
 
 
 ### 최현묵(jelly) 
-[![Imgur](http://i.imgur.com/X95C5iM.png)](https://www.facebook.com/hyunmook.k.choi)[![Imgur](http://i.imgur.com/I8bSDi8.png)](http://jellyms.kr)
+
+[![Imgur](http://i.imgur.com/FtypJBb.jpg)](http://jellyms.kr)
 
 어느 순간부터 젤리라고 불리기 시작한 이후, 이름보다 젤리로 더 많이 불리고 있습니다. 네 제가 바로 그 젤리입니다.

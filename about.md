@@ -16,21 +16,21 @@ image:
 
 ### 송다운(downy)
 
-![Imgur](http://i.imgur.com/c074jtn.jpg)
+[![Imgur](http://i.imgur.com/c074jtn.jpg)](https://github.com/downy158)
 
 안녕하세요 다우니입니다. 아 물론 향기나는 그 다우니는 아닙니다.
 
 
 ### 이강산(river-mountain)
 
-[![Imgur](http://i.imgur.com/bek5FVy.jpg)](kangslee.github.io)
+[![Imgur](http://i.imgur.com/bek5FVy.jpg)](http://kangslee.github.io)
 
 안녕하세요 리버마운틴 입니다. 江강강에 山메산 맞습니다. 정말로요.
 
 
 ### 정현지(hyundeeee)
 
-![Imgur](http://i.imgur.com/Ntybtkf.jpg)
+[![Imgur](http://i.imgur.com/Ntybtkf.jpg)](https://github.com/hyunji92)
 
 hyundeeeee입니다. e가 다섯개입니다. e가 다섯개!!!!!!
 
@@ -39,7 +39,7 @@ hyundeeeee입니다. e가 다섯개입니다. e가 다섯개!!!!!!
 
 ### 주원영(getogrand)
 
-![Imgur](http://i.imgur.com/lWBxaFv.png)
+[![Imgur](http://i.imgur.com/lWBxaFv.png)](https://github.com/getogrand)
 
 JU 101011110011111001110100000101100110011111010101100111010001110
 
